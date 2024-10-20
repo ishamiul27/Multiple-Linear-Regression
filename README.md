@@ -1,49 +1,24 @@
 # Multivariate-Regression-Analysis
 
 <h2>Description</h2>
-Looking for a way to predict box office receipts, an MGM producer collects the production costs, promotional costs, and book adaptation sales for 10 randomly sampled blockbuster movies, as well as their box office performance.
+
+Looking for a way to predict box office receipts, an MGM producer collects the production costs, promotional
+costs, and book adaptation sales for 10 randomly sampled blockbuster movies, as well as their box office
+ticket sales (in millions of dollars). This year, he’s pulling out all the stops on his newest feature film. He
+is planning to spend 15 million on production costs, 20 million on promotional costs, and hopes to make 5
+million on sales of book adaptations.
+
 <br />
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
-<p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
+- <b> R Markdown </b> 
+- <b> Packages </b>
+  - <b> GGally </b>
+  - <b> tidyverse </b>
+  - <b> rstatix </b>
+  - <b> dplyr </b>
+      
 <!--
  ```diff
 - text in red
